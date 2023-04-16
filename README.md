@@ -12,7 +12,7 @@ All of this is functioning with File Operations in JAVA, where data is flowing f
 3. Grand Total At last
 
 #Images
-<div style="display: flex; flex-wrap: wrap; flex-grow: 1;">
+<div style="display: flex; flex-wrap: wrap; flex-grow: 1; justify-content: space-between;">
   <img src="https://user-images.githubusercontent.com/68009290/232302930-f9f912cc-25d4-4606-a59d-406558f93a5d.png" style="width: 33.33%; object-fit: cover; height: 200px; margin-right: 10px; witdh:auto;">
   <img src="https://user-images.githubusercontent.com/68009290/232303106-c4466911-3b6b-4fb2-9524-8365637627c0.png" style="width: 33.33%; object-fit: cover; height: 200px; margin-right: 10px;">
   <img src="https://user-images.githubusercontent.com/68009290/232303106-c4466911-3b6b-4fb2-9524-8365637627c0.png" style="width: 33.33%; object-fit: cover; height: 200px; margin-right: 10px;">
