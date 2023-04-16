@@ -8,7 +8,7 @@ All of this is functioning with File Operations in JAVA, where data is flowing f
 3. Admin can Remove Existing Data in Datasets
 
 <div style="display: flex; flex-wrap: wrap;">
-  <img src="![image](https://user-images.githubusercontent.com/68009290/232303106-c4466911-3b6b-4fb2-9524-8365637627c0.png)" style="width: 33.33%; object-fit: cover; height: 200px; margin-right: 10px;">
+  <img src="https://user-images.githubusercontent.com/68009290/232303106-c4466911-3b6b-4fb2-9524-8365637627c0.png" style="width: 33.33%; object-fit: cover; height: 200px; margin-right: 10px;">
   <img src="image2.jpg" style="width: 33.33%; object-fit: cover; height: 200px; margin-right: 10px;">
   <img src="image3.jpg" style="width: 33.33%; object-fit: cover; height: 200px; margin-right: 10px;">
   <img src="image4.jpg" style="width: 33.33%; object-fit: cover; height: 200px; margin-right: 10px;">
