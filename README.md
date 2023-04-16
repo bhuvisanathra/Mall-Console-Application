@@ -11,7 +11,7 @@ All of this is functioning with File Operations in JAVA, where data is flowing f
 2.Select your purchase
 3. Grand Total At last
 
-<div style="display: flex; flex-wrap: wrap;">
+<div style="display: flex; flex-wrap: wrap; flex-grow: 1;">
   <img src="https://user-images.githubusercontent.com/68009290/232302930-f9f912cc-25d4-4606-a59d-406558f93a5d.png" style="width: 33.33%; object-fit: cover; height: 200px; margin-right: 10px;">
   <img src="https://user-images.githubusercontent.com/68009290/232303106-c4466911-3b6b-4fb2-9524-8365637627c0.png" style="width: 33.33%; object-fit: cover; height: 200px; margin-right: 10px;">
   <img src="https://user-images.githubusercontent.com/68009290/232303106-c4466911-3b6b-4fb2-9524-8365637627c0.png" style="width: 33.33%; object-fit: cover; height: 200px; margin-right: 10px;">
@@ -22,3 +22,11 @@ All of this is functioning with File Operations in JAVA, where data is flowing f
   <img src="https://user-images.githubusercontent.com/68009290/232304066-2bed81f9-3c43-4e09-982f-2e696291f5db.png" style="width: 33.33%; object-fit: cover; height: 200px;">
   <img src="https://user-images.githubusercontent.com/68009290/232304143-cd1ec64e-8812-415e-9b19-9b6964eed973.png" style="width: 33.33%; object-fit: cover; height: 200px;">
 </div>
+
+
+
+
+
+
+
+
