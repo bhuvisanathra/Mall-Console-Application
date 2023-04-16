@@ -1,0 +1,5 @@
+1 Apple 60000
+2 Samsung 35000
+3 Vivo 20000
+4 Oppo 15000
+5 Realme 18000

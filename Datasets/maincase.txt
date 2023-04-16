@@ -1,0 +1,9 @@
+
+Welcome To Our Mall
+-----------------------
+1. for enter mobile phone
+2. for grocery items
+3. for childrens items
+4. for men items
+5. for women items
+6. for Exit

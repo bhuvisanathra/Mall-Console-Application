@@ -1,0 +1,5 @@
+1 Top=>700
+2 Jeans=>1000
+3 Purse=>500
+4 Sandles=>800
+5 Shorts=>15006 Jeans 5003

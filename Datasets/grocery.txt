@@ -1,0 +1,4 @@
+1 Milk 20
+2 Butter 30
+3 FoodOil 150
+4 Detergent 150
