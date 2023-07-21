@@ -2,13 +2,14 @@
 All of this is functioning with File Operations in JAVA, where data is flowing from files and we are finding and deleting items from them.
 
 # Admin Side
-1. Admin Can View Database And Bills
+1. Admins Can View databases And Bills
 2. Admin can Insert new Data in Datasets
 3. Admin can Remove Existing Data in Datasets
+4. The admin can View All Customer databases.
 
 # User Side
-1. Enter Your and File Name
-2.Select your purchase
+1. Enter Your File Name
+2. Select your purchase
 3. Grand Total At last
 
 # Images
