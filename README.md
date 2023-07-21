@@ -16,7 +16,7 @@ All of this is functioning with File Operations in JAVA, where data is flowing f
 
 <div style="display: flex; flex-wrap: wrap; box-sizing: border-box; justify-content: space-between; align-items: stretch; padding: 10px;">
   <img src="https://user-images.githubusercontent.com/68009290/232302930-f9f912cc-25d4-4606-a59d-406558f93a5d.png" style="width: 33.33%; object-fit: cover; height: 200px; margin-right: 10px;">
-  <img src="https://user-images.githubusercontent.com/68009290/232303106-c4466911-3b6b-4fb2-9524-8365637627c0.png" style="width: 33.33%; object-fit: cover; height: 200px; margin-right: 10px;">
+  <img src="https://github.com/bhuvisanathra/Mall-Console-Application/assets/68009290/37003329-f836-4b6f-8965-6799d448cdd7" style="width: 33.33%; object-fit: cover; height: 200px; margin-right: 10px;">
   <img src="https://user-images.githubusercontent.com/68009290/232303263-459e9d46-819a-465e-ac7f-5cd0d2fbc961.png" style="width: 33.33%; object-fit: cover; height: 200px; margin-right: 10px;">
   <img src="https://user-images.githubusercontent.com/68009290/232303342-920a166b-561c-4c04-9803-f2db4da6454f.png" style="width: 33.33%; object-fit: cover; height: 200px; margin-right: 10px;">
   <img src="https://user-images.githubusercontent.com/68009290/232303437-15d96011-7e95-45b1-ba00-5ab4c381e307.png" style="width: 33.33%; object-fit: cover; height: 200px; margin-right: 10px;">
