@@ -4,7 +4,7 @@ import java.util.Scanner;
 public class Shopping {
 
     static int total = 0; // To Store Grand Total
-    static FileWriter fileWriter;
+    static FileWriter fileWriter, databaseWriter;
     static File f;
     static Scanner Scanner = new Scanner(System.in);
     static Scanner input;
@@ -15,8 +15,10 @@ public class Shopping {
     // Functions
     static void writeData(FileWriter fw, String str) {
         try {
-            // System.out.println(str);
+            databaseWriter = new FileWriter(new File("admin/customerDB"), true);
             fw.append(str);
+            databaseWriter.append(str);
+            databaseWriter.close();
         } catch (Exception e) {
             e.printStackTrace();
         }
@@ -216,6 +218,12 @@ public class Shopping {
         }
     }
 
+    static void writeInDatabase() {
+        printHeading("Sales Report");
+        System.out.println();
+        displayList("admin/customerDB");
+    }
+
     public static void main(String[] args) {
 
         displayList("Datasets/typeofuser.txt");
@@ -263,6 +271,9 @@ public class Shopping {
                     case 3:
                         deleteData();
                         break;
+                    case 4:
+                        writeInDatabase();
+                        break;
                     default:
                         System.out.println("\nPlease Enter Correct Credentials");
                 }
@@ -285,7 +296,8 @@ public class Shopping {
                         fileWriter = new FileWriter(f);
                         System.out.print("Enter Your Full Name:");
                         String name = Scanner.nextLine();
-                        writeData(fileWriter, "Bill Owner : " + name + "\n\n");
+                        writeData(fileWriter, "Bill Owner : " + name
+                                + "\n----------------------------------------------\n");
                         break;
                     } else {
                         System.out.print("\nFile already exists select different FileName!!\n");
@@ -323,7 +335,7 @@ public class Shopping {
                     System.out.println();
                 } while (ch > 0 && ch <= 1);
                 System.out.println("Grand Total: " + total + "\n");
-                writeData(fileWriter, "Grand Total: " + total + "\n");
+                writeData(fileWriter, "Grand Total: " + total + "\n\n");
                 fileWriter.close();
                 Scanner.close();
             } catch (IOException e) {
