@@ -1,0 +1,11 @@
+Bill Owner : sample
+----------------------------------------------
+Apple => 60000 is your bill
+Apple => 60000 is your bill
+Grand Total: 120000
+
+Bill Owner : 2
+----------------------------------------------
+Butter => 30 is your bill
+Grand Total: 30
+

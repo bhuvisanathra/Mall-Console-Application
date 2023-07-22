@@ -1,0 +1,5 @@
+Bill Owner : 2
+----------------------------------------------
+Butter => 30 is your bill
+Grand Total: 30
+

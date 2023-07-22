@@ -15,7 +15,7 @@ public class Shopping {
     // Functions
     static void writeData(FileWriter fw, String str) {
         try {
-            databaseWriter = new FileWriter(new File("admin/customerDB"), true);
+            databaseWriter = new FileWriter(new File("admin/customerDB.txt"), true);
             fw.append(str);
             databaseWriter.append(str);
             databaseWriter.close();

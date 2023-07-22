@@ -1,5 +1,6 @@
-Bill Owner : 1
+Bill Owner : sample
 ----------------------------------------------
 Apple => 60000 is your bill
-Grand Total: 60000
+Apple => 60000 is your bill
+Grand Total: 120000
 
